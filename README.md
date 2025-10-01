@@ -1,6 +1,6 @@
 # 2D Robotic Arm Simulator
 
-This Python application is an interactive 2D robotic arm simulator built using Pygame. It allows users to explore inverse kinematics by controlling the robotic arm with their mouse. The simulator calculates joint angles to reach the target point and visually represents the arm's movement, angles, and lengths.
+This Python application is an interactive 2D robotic arm simulator built using Pygame. It allows users to explore **inverse kinematics** by controlling the robotic arm with their mouse. The simulator calculates joint angles to reach the target point and visually represents the arm's movement, angles, and lengths.
 
 ---
 
